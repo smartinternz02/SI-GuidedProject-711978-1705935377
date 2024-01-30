@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hello, sign in  Account  Lists</name>
+   <tag></tag>
+   <elementGuidId>120463ba-f72a-42bd-9649-654593f87caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-link-accountList']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-link-accountList</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a028073-d956-400b-8406-6fbe62bbdfaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0</value>
+      <webElementGuid>ecbb9029-369b-4030-a83c-6a5662ee3819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-a nav-a-2   nav-progressive-attribute nav-active</value>
+      <webElementGuid>47ff149d-fdaf-481a-bf96-75631a72435f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nav-ref</name>
+      <type>Main</type>
+      <value>nav_ya_signin</value>
+      <webElementGuid>bd6a8657-074f-4a89-a871-11d56b96ff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nav-role</name>
+      <type>Main</type>
+      <value>signin</value>
+      <webElementGuid>ac478301-efb5-4b77-b6a8-3e051c2f5bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ux-jq-mouseenter</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b59742f6-6446-4eba-bc4c-677d5d229f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-link-accountList</value>
+      <webElementGuid>5cbe9299-786e-4ce2-987f-115f0d4ed96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>35be9f60-3a6b-4bc9-a2c7-89d42108b717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-type</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>44d770aa-52ca-4fe3-a8b9-32f6fa00ce39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-slot-id</name>
+      <type>Main</type>
+      <value>nav-link-accountList</value>
+      <webElementGuid>f07c6415-9556-405c-868a-59128c27d8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-content-id</name>
+      <type>Main</type>
+      <value>nav_ya_signin</value>
+      <webElementGuid>3b03f242-0fb9-46f3-81d5-7a7ff7de8340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-id</name>
+      <type>Main</type>
+      <value>w51tso-c8ms1h-c9a9d5-egy4q1</value>
+      <webElementGuid>6450602f-6299-4d75-8619-cd8f5e70607e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Hello, sign in
+  Account &amp; Lists
+  
+</value>
+      <webElementGuid>106a7a6c-6feb-4a53-b6f4-d0a3f9091c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-link-accountList&quot;)</value>
+      <webElementGuid>b1f1cbc5-3cb1-45d6-8441-aa86716af858</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='nav-link-accountList']</value>
+      <webElementGuid>38feabfc-a0b2-448d-8af7-e6afba31cac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-tools']/a[2]</value>
+      <webElementGuid>2f23b975-cd3c-4bfe-a32c-599781f89297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0')]</value>
+      <webElementGuid>ebc4c753-a675-43a8-b62c-686f8ed6e53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[2]</value>
+      <webElementGuid>a68ad4fb-2742-45a0-89b1-ee2429c4cc56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' and @id = 'nav-link-accountList' and (text() = '
+  Hello, sign in
+  Account &amp; Lists
+  
+' or . = '
+  Hello, sign in
+  Account &amp; Lists
+  
+')]</value>
+      <webElementGuid>55ed4590-9f37-4c55-8c8d-824f34dbec47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_US 1</name>
+   <tag></tag>
+   <elementGuidId>787f06c6-1d13-4141-baec-5e7775d84dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cvf_phone_cc_aui']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button-text.a-declarative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96591642-bc53-4635-badb-b7b724fdeb02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text a-declarative</value>
+      <webElementGuid>fb25049b-14d0-42d5-9c92-8c3e459d2847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-func-deps</name>
+      <type>Main</type>
+      <value>aui-da-a-dropdown-button</value>
+      <webElementGuid>ad44b66f-8801-4268-91b8-a680cda5e29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-type</name>
+      <type>Main</type>
+      <value>widget</value>
+      <webElementGuid>00024b93-853b-4c32-8820-188dc1427b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-interaction-events</name>
+      <type>Main</type>
+      <value>click</value>
+      <webElementGuid>350a7fbb-6ca0-4857-b256-ba0a1da91969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-dropdown-button</value>
+      <webElementGuid>ff47cab3-eb5d-4eee-ac0a-5b636ea258ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>44b0c916-1c30-4e11-a1b8-d382c2bcb217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>        US +1
+</value>
+      <webElementGuid>a2e68ddf-5e8c-4068-9808-2f93ce2d4805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cvf_phone_cc_aui&quot;)/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]</value>
+      <webElementGuid>fe6e06af-d6a3-4281-9091-62f9a531f766</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cvf_phone_cc_aui']/span/span</value>
+      <webElementGuid>3421ae51-6c49-461c-a278-ac790def5e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>557c0410-646c-4ffb-80dd-75ae283d662a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '        US +1
+' or . = '        US +1
+')]</value>
+      <webElementGuid>fa755689-20e8-4792-b5ad-f39295962733</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

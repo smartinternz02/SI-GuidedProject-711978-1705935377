@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a-icon a-icon-radio</name>
+   <tag></tag>
+   <elementGuidId>0634d7ed-457d-4e20-9255-876208e1a8be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='icp-language-settings']/div[2]/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-radio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>31266b93-9176-48c1-b4e7-db9e6ef44cbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-radio</value>
+      <webElementGuid>b617e8aa-3c38-422e-85e8-ad9a6b70a73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-language-settings&quot;)/div[@class=&quot;a-row a-spacing-mini&quot;]/div[@class=&quot;a-radio a-radio-fancy&quot;]/label[1]/i[@class=&quot;a-icon a-icon-radio&quot;]</value>
+      <webElementGuid>b0ea6878-36c9-4aa5-a886-16f98e6ad863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='icp-language-settings']/div[2]/div/label/i</value>
+      <webElementGuid>26a28e5c-9a49-4a99-8c62-9ac74d90f06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+      <webElementGuid>4da18863-7ad4-4d3d-b432-e2079159900f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

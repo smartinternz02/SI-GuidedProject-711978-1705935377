@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Home_CategorySelection_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c19bb3d-a21a-43dc-9ebe-fe5a53187ea8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abd2219f-a997-4d9f-9b99-a7b6b4610c3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9178db70-3beb-4334-b573-249ecda44425</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Books'</defaultValue>
+      <description></description>
+      <id>abd2219f-a997-4d9f-9b99-a7b6b4610c3c</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>'Da vinci code'</defaultValue>
+      <description></description>
+      <id>9178db70-3beb-4334-b573-249ecda44425</id>
+      <masked>false</masked>
+      <name>Item</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_Amazon_ValidateSearchFieldItem_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03cb41e7-b820-4f66-a6b8-06eeec1ffb25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abbd247a-a381-4453-b8e0-26d5a277b155</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39263229-ee0b-4cb2-a495-eb2dba81797a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Books'</defaultValue>
+      <description></description>
+      <id>abbd247a-a381-4453-b8e0-26d5a277b155</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>'Da vinci code'</defaultValue>
+      <description></description>
+      <id>39263229-ee0b-4cb2-a495-eb2dba81797a</id>
+      <masked>false</masked>
+      <name>Item</name>
+   </variable>
+</TestCaseEntity>
