@@ -1,5 +1,6 @@
 Google Drive Link for the project explanation video:
-https://drive.google.com/file/d/1Gas1Bj8_7gMtnqHUNSudPzEyThq28ymK/view?usp=sharing
+https://drive.google.com/file/d/1yhTBUgYrlART8mg8r0UKNzHOl20FhLG2/view?usp=sharing
 
-I couldn't run and execute the test cases due to the screen recording software, but reports were generated for each test suit and test suit collection which have included each test case and each functionality.
-I have uploaded the reports under the project --> Reports folder. These reports clearly indicate that I have successfuly been able to execute each test case without fail.
+I have executed one of the test suite collection for Data driven testing in the videi.
+Similarly all the other test cases and suites and test suite collections have successfully been run and executed, which have been reported through reports.
+Reports for each test suite and test suite collection have been generated under the Project --> Reports folder of this repository.
