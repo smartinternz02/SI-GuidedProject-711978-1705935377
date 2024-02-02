@@ -1,1 +1,17 @@
 Katlon studio has been integreted with jenkins successfully 
+
+Code used to integrate Katalon Studio with Jenkins through Github Repository:
+cd "C:\Users\Ayush\Katalon Studio\SI-GuidedProject-711978-1705935377"
+git pull "https://github.com/smartinternz02/SI-GuidedProject-711978-1705935377.git"
+cd "C:\Users\Ayush\Katalon_Studio_Engine_Windows_64-9.2.0"
+
+katalonc -noSplash -runMode=console -projectPath="C:\Users\Ayush\Katalon Studio\Software Test Automation_Amazon\Software Test Automation_Amazon.prj" -retry=0 -testSuitePath="Test Suites/Amazon_Test Suites/TListener_Amazon_Validate_SearctFieldItem" -browserType="Chrome" -executionProfile="default" -apiKey="1e4a1625-1974-405e-9f31-54e677b2f20b" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
+
+cd "C:\Users\Ayush\Katalon Studio\SI-GuidedProject-711978-1705935377"
+type nul > jenkins.txt
+echo Katlon studio has been integreted with jenkins successfully > jenkins.txt
+git status
+git add *.*
+git commit -m "change for test on jenkins"
+git push -u "https://github.com/smartinternz02/SI-GuidedProject-711978-1705935377.git" main
+echo success
